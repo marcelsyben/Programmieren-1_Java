@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AnalysierMich
+comment1.params=kraft\ iq
+comment1.target=AnalysierMich(int,\ int)
+comment2.params=
+comment2.target=void\ wasPassiert1()
+comment3.params=
+comment3.target=void\ wasPassiert2()
+numComments=4

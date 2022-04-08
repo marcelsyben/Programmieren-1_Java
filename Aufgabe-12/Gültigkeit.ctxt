@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=G\u00FCltigkeit
+comment1.params=Tag\ Monat\ Jahr
+comment1.target=G\u00FCltigkeit(int,\ int,\ int)
+numComments=2

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bsp
+comment1.params=par
+comment1.target=int\ methA(int)
+comment2.params=par
+comment2.target=int\ methB(int)
+comment3.params=par1\ par2
+comment3.target=int\ methC(int,\ int)
+numComments=4

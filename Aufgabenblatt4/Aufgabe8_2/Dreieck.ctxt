@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Dreieck
+comment1.params=punkt1\ punkt2\ punkt3
+comment1.target=Dreieck(Punkt,\ Punkt,\ Punkt)
+comment2.params=
+comment2.target=Punkt\ getPunkt1()
+comment3.params=
+comment3.target=Punkt\ getPunkt2()
+comment4.params=
+comment4.target=Punkt\ getPunkt3()
+comment5.params=
+comment5.target=void\ setPunkt1()
+comment6.params=
+comment6.target=void\ setPunkt2()
+comment7.params=
+comment7.target=void\ setPunkt3()
+comment8.params=ib
+comment8.target=void\ darstellen(Interaktionsbrett)
+numComments=9

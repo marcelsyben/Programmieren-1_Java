@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Rechteck
+comment1.params=
+comment1.target=Punkt\ getausgangspunkt()
+comment2.params=ausgangspunkt
+comment2.target=void\ setausgangspunkt(Punkt)
+comment3.params=
+comment3.target=int\ getbreite()
+comment4.params=breite
+comment4.target=void\ setbreite(int)
+comment5.params=
+comment5.target=int\ geth\u00F6he()
+comment6.params=h\u00F6he
+comment6.target=void\ seth\u00F6he(int)
+comment7.params=breite\ h\u00F6he\ ausgangspunkt
+comment7.target=Rechteck(int,\ int,\ Punkt)
+numComments=8

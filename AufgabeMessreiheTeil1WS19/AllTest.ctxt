@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AllTest
+comment0.text=\ Anders\ als\ die\ anderen\ Klassen\ in\ diesem\ Projekt,\ muss\ dies\ nicht\r\n\ verstanden\ werden.\ Sie\ dient\ ausschliesslich\ der\ Bequemlichkeit,\r\n\ alle\ Tests\ nacheinander\ zusammen\ auszufuehren.\ Laufen\ alle\ Tests,\r\n\ wird\ einfach\ "true"\ ausgegeben.\r\n\ Klasse\ wurde\ ergaenzt,\ da\ BlueJ\ kann\ TestSuites\ unterstuetzt\ (?).\r\n
+comment1.params=
+comment1.target=void\ executeAllTests()
+numComments=2

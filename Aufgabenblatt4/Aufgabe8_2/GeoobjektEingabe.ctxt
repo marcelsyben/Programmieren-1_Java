@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GeoobjektEingabe
+comment1.params=
+comment1.target=Punkt\ punktEingeben()
+comment2.params=
+comment2.target=Linie\ linieEingeben()
+comment3.params=
+comment3.target=Kreis\ kreisEingabe()
+comment4.params=
+comment4.target=Rechteck\ rechteckEingabe()
+comment5.params=
+comment5.target=Dreieck\ dreieckEingabe()
+numComments=6

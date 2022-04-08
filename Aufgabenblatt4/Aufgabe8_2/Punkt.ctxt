@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Punkt
+comment1.params=x1\ y1
+comment1.target=Punkt(int,\ int)
+comment2.params=
+comment2.target=int\ getx()
+comment3.params=
+comment3.target=int\ gety()
+comment4.params=
+comment4.target=void\ setx()
+comment5.params=
+comment5.target=void\ sety()
+comment6.params=ib
+comment6.target=void\ darstellen(Interaktionsbrett)
+numComments=7

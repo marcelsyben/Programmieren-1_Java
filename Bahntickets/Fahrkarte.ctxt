@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Fahrkarte
+comment1.params=gruppe\ g\u00FCltigkeit\ start\ ziel\ preisstufe\ id1\ id2\ id3\ druckzeit\ gesamtpreis\ mwst
+comment1.target=Fahrkarte(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ java.lang.String,\ double,\ double)
+numComments=2

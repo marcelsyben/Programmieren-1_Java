@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Dreieck
+comment1.params=
+comment1.target=Punkt\ getecke1()
+comment2.params=ecke1
+comment2.target=void\ setecke1(Punkt)
+comment3.params=
+comment3.target=Punkt\ getecke2()
+comment4.params=ecke2
+comment4.target=void\ setecke2(Punkt)
+comment5.params=
+comment5.target=Punkt\ getecke3()
+comment6.params=ecke3
+comment6.target=void\ setecke3(Punkt)
+comment7.params=p1\ p2\ p3
+comment7.target=Dreieck(Punkt,\ Punkt,\ Punkt)
+numComments=8

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MessreiheErzeugungTest
+comment1.params=
+comment1.target=void\ testMessreiheMitOrtErzeugen()
+comment2.params=
+comment2.target=void\ testMessreiheOhneOrtErzeugen()
+comment3.params=
+comment3.target=void\ testGetSetMessort()
+comment4.params=
+comment4.target=void\ testGetSetMesswerte()
+numComments=5

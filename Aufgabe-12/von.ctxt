@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=von
+comment1.params=
+comment1.target=int\ getstockwerk()
+comment2.params=stockwerk
+comment2.target=void\ setstockwerk(int)
+comment3.params=stockwerk\ Stra\u00DFe\ Ort
+comment3.target=von(int,\ java.lang.String,\ java.lang.String)
+numComments=4

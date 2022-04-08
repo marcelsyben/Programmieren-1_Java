@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Dienstleistung
+comment1.params=
+comment1.target=int\ getAnzahl()
+comment2.params=Anzahl
+comment2.target=void\ setAnzahl(int)
+comment3.params=Anzahl\ Lampe
+comment3.target=Dienstleistung(int,\ java.lang.String)
+numComments=4

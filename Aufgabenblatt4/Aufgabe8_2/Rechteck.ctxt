@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Rechteck
+comment1.params=groesex\ groesey\ punkt
+comment1.target=Rechteck(int,\ int,\ Punkt)
+comment2.params=
+comment2.target=int\ getGroesex()
+comment3.params=
+comment3.target=int\ getGroesey()
+comment4.params=
+comment4.target=Punkt\ getPunkt()
+comment5.params=
+comment5.target=void\ setGroesex()
+comment6.params=
+comment6.target=void\ setGroesey()
+comment7.params=
+comment7.target=void\ setPunkt()
+comment8.params=ib
+comment8.target=void\ darstellen(Interaktionsbrett)
+numComments=9

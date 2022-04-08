@@ -1,0 +1,14 @@
+BlueJ run started: Mon Oct 28 16:43:04 CET 2019
+BlueJ version 4.2.1
+Java version 11.0.3
+JavaFX version 11.0.3+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.3+7-LTS (Azul Systems, Inc.)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\kleukersSEU\zulu11.31.11-ca-fx-jdk11.0.3-win_x64
+----
+Detected language "german" based on iso639-2 code "deu"
+Opening project: Z:\Programmieren 1 Praktikum\test
+1572277387631: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+java.io.FileNotFoundException while reading import cache: userhome\bluej\import-cache.xml (Das System kann die angegebene Datei nicht finden)

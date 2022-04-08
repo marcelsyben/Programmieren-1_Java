@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Saeule
+comment1.params=
+comment1.target=Saeule()
+comment2.params=titel\ wert
+comment2.target=Saeule(java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getTitel()
+comment4.params=t
+comment4.target=void\ setTitel(java.lang.String)
+comment5.params=
+comment5.target=int\ getWert()
+comment6.params=x
+comment6.target=void\ setWert(int)
+numComments=7

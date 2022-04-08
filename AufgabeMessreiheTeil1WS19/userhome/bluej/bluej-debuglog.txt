@@ -1,0 +1,82 @@
+BlueJ run started: Wed Dec 04 10:41:29 CET 2019
+BlueJ version 4.2.1
+Java version 11.0.3
+JavaFX version 11.0.3+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.3+7-LTS (Azul Systems, Inc.)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\kleukersSEU\zulu11.31.11-ca-fx-jdk11.0.3-win_x64
+----
+Detected language "german" based on iso639-2 code "deu"
+Opening project: E:\202020\AufgabeMessreiheTeil1WS19
+1575452491835: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+java.io.FileNotFoundException while reading import cache: userhome\bluej\import-cache.xml (Das System kann die angegebene Datei nicht finden)
+Communication with debug VM fully established.
+Dez. 04, 2019 10:42:29 VORM. javafx.scene.CssStyleHelper calculateValue
+WARNUNG: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jrt:/javafx.controls/com/sun/javafx/scene/control/skin/modena/modena.bss
+Dez. 04, 2019 10:45:18 VORM. javafx.scene.CssStyleHelper calculateValue
+WARNUNG: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jrt:/javafx.controls/com/sun/javafx/scene/control/skin/modena/modena.bss
+====
+
+====
+BlueJ run started: Wed Dec 04 14:35:50 CET 2019
+BlueJ version 4.2.1
+Java version 11.0.3
+JavaFX version 11.0.3+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.3+7-LTS (Azul Systems, Inc.)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\kleukersSEU\zulu11.31.11-ca-fx-jdk11.0.3-win_x64
+----
+Detected language "german" based on iso639-2 code "deu"
+Opening project: E:\202020\AufgabeMessreiheTeil1WS19
+1575466552311: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Dez. 04, 2019 2:54:37 NACHM. javafx.scene.CssStyleHelper calculateValue
+WARNUNG: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jrt:/javafx.controls/com/sun/javafx/scene/control/skin/modena/modena.bss
+====
+
+====
+BlueJ run started: Wed Dec 04 15:01:05 CET 2019
+BlueJ version 4.2.1
+Java version 11.0.3
+JavaFX version 11.0.3+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.3+7-LTS (Azul Systems, Inc.)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\kleukersSEU\zulu11.31.11-ca-fx-jdk11.0.3-win_x64
+----
+Detected language "german" based on iso639-2 code "deu"
+Opening project: E:\202020\AufgabeMessreiheTeil1WS19
+1575468067300: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Dez. 04, 2019 3:13:33 NACHM. javafx.scene.CssStyleHelper calculateValue
+WARNUNG: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jrt:/javafx.controls/com/sun/javafx/scene/control/skin/modena/modena.bss
+Dez. 04, 2019 3:13:51 NACHM. javafx.scene.CssStyleHelper calculateValue
+WARNUNG: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jrt:/javafx.controls/com/sun/javafx/scene/control/skin/modena/modena.bss
+javax.net.ssl.SSLPeerUnverifiedException: peer not authenticated
+	at java.base/sun.security.ssl.SSLSessionImpl.getPeerCertificates(SSLSessionImpl.java:558)
+	at org.apache.http.conn.ssl.AbstractVerifier.verify(AbstractVerifier.java:128)
+	at org.apache.http.conn.ssl.SSLSocketFactory.connectSocket(SSLSocketFactory.java:390)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:148)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:149)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:121)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:561)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:415)
+	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:820)
+	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:754)
+	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:732)
+	at bluej.collect.DataSubmitter.postData(DataSubmitter.java:183)
+	at bluej.collect.DataSubmitter.processQueue(DataSubmitter.java:135)
+	at bluej.collect.DataSubmitter$1.run(DataSubmitter.java:107)
+1575469825372: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1575469969675: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1575470013033: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Dez. 04, 2019 3:52:15 NACHM. javafx.scene.CssStyleHelper calculateValue
+WARNUNG: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jrt:/javafx.controls/com/sun/javafx/scene/control/skin/modena/modena.bss

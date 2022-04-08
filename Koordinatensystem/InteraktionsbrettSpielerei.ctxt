@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=InteraktionsbrettSpielerei
+comment1.params=
+comment1.target=void\ SchoenesBild()
+comment2.params=ib\ x\ y\ faktor
+comment2.target=void\ mondrian(Interaktionsbrett,\ int,\ int,\ int)
+numComments=3

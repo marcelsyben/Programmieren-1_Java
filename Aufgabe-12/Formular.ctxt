@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Formular
+comment1.params=Kundenname\ Stra\u00DFe\ Ort\ stockwerk\ von1\ nach1\ G\u00FCter1\ Dienstleistung1\ G\u00FCltigkeit1
+comment1.target=Formular(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ von,\ nach,\ G\u00FCter,\ Dienstleistung,\ G\u00FCltigkeit)
+numComments=2
